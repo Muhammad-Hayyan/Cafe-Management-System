@@ -1,0 +1,5 @@
+S.no	Order	Qty
+4	Drink	5
+5	Pulao	6
+6	Pizza	2
+7	Pulao	2

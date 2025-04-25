@@ -1,0 +1,13 @@
+Burger	10
+Pizza	20
+Shwarma	30
+Fries	25
+Cake	20
+Pastry	29
+Donuts	10
+Samosa	0
+Roll	90
+Biryani	50
+Pulao	70
+Drink	80
+Water	10

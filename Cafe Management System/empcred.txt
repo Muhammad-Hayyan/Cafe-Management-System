@@ -1,0 +1,8 @@
+Name	UserID		Password
+Hamid	hamid123	hamidhamid
+Akmal	akmal123	akmal66
+Hamza	hamza123	hamza612
+Khalid	khalid123	khalidkhalid
+Ahmed	ahmed123	ahmed1234
+Sajid	sajid66	sajid123
+Majid	majid123	majidmajid
