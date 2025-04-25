@@ -1,6 +1,5 @@
 # ☕ Café Digital System (CDS)
 
-A semester project for **Programming Fundamentals (CS-1002)** at FAST-NUCES, Islamabad — Fall 2023.  
 This system was designed to modernize and digitize the stock and order management of the university café, offering features like login authentication, inventory tracking, order handling, and complaint management using C++.
 
 ## 🔧 Technologies Used
@@ -73,5 +72,21 @@ Each stock item is stored with:
 
 ---
 
-## 📁 Project Structure
+## 🛡️ Cybersecurity Practices Applied
+- User authentication and access control
+- Text-based credential management
+- Separation of roles (admin, employee, student/staff)
+- Privacy maintained through structured access
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repo or extract the `.zip` file.
+2. Compile using any standard C++ compiler (g++, VS Code, Dev-C++).
+3. Run `main.cpp`.
+4. Login using default credentials (defined in `users.txt`).
+5. Navigate through menu-driven interface.
+
+---
 
